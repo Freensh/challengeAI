@@ -56,7 +56,7 @@ check out [NEWS.md](https://github.com/facebookresearch/ParlAI/blob/main/NEWS.md
 
 For those who want to start with ParlAI now, you can try our [Colab Tutorial](https://colab.research.google.com/drive/1bRMvN0lGXaTF5fuTidgvlAl-Lb41F7AD#scrollTo=KtVz5dCUmFkN).
 
-## Installing ParlAI A
+## Installing ParlAI
 
 ### Operating System
 
